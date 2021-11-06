@@ -238,3 +238,7 @@
   website: https://vincmazet.github.io/bip/
   repository: https://github.com/vincmazet/bip
   image:
+- name: "Training Spiking Neural Networks Using snnTorch"
+  website: https://snntorch.readthedocs.io/
+  repository: https://github.com/snntorch/Spiking-Neural-Networks-Tutorials
+  image: https://raw.githubusercontent.com/jeshraghian/snntorch/master/docs/_static/img/snntorch_200x200.png
